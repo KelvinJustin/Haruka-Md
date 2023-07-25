@@ -1,5 +1,5 @@
 {
-    "ownerNumber": ["265994500084","62887435047326@s.whatsapp.net"],
+    "ownerNumber": ["265994500084"},
     "ownerName": "Xen_Mercci",
     "instagram" : "https://instagram.com/zeeoneofc",
     "gcwa" : "https://instabio.cc/Alphabot",
@@ -8,8 +8,8 @@
     "sessionName": "session",
     "fotoDonasi": "./qris.jpg",
     "pathimg": "./Haruka.jpg",
-    "BotKey": "2005",
-    "OpenAIKey": "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",
+    "BotKey": "1984",
+    "OpenAIKey": "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",
     "audio_di_bagian_menu": "./menu.mp3",
     "auto_ai_japri": false,
     "auto_ai_grup": false,
